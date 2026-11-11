@@ -20,9 +20,9 @@ A fully sequential **Smart Parking Lot Controller** built entirely from digital 
 This project was developed as the **Semester Project (Assignment 4)** for the **Digital Logic Design** course at the **Department of Computer Engineering, Bahria University Islamabad**. It automates entry/exit control and occupancy tracking for a parking lot using only combinational and sequential logic — no microcontroller involved. The system monitors available spaces, blocks entry when full, blocks exit when empty, and displays live occupancy on 7-segment displays.
 
 **Team:**
-- Muhammad Shoaib
-- Muhammad Ubaid
-- Muhammad Ali
+- Muhammad Usman Malik 
+- Muhammad Abdullah Liaqat Satti
+- Farhan Quasir
 
 ---
 
